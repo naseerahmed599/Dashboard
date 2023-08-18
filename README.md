@@ -1,16 +1,6 @@
 # dashboardapp
 
-A new Flutter project.
+The is the simple Dashboard app that is mainly directed for the users to take an idea of its creation and design. Also the code is provided so that all those checking this code could easily interact with it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/naseerahmed599/Dashboard/assets/57068482/f60e2ab2-7aa7-46e4-bdb7-d14f626c64f3)
